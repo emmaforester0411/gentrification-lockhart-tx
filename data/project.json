@@ -1,21 +1,27 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
-    "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "github_org": "emmaforester0411",
+    "is_private": false,
+    "title": "Gentrification in Lockhart and its effects on our community",
+    "description": "This is a podcast where I talk about how gentrification is changing my small town, Lockhart Tx, and how it is effecting us as a community. I also talk about how there are things we can do to combat it. ",
+    "language": "en",
+    "slug": "gentrification-lockhart-tx",
+    "creator": "emmaforester0411",
+    "authors": "Emma Forester ",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2025-04-24T15:03:47.039Z",
+    "updated_at": "2025-04-24T15:03:47.039Z"
   }
 }
