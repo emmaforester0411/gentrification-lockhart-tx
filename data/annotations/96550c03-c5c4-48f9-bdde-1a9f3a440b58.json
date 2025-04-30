@@ -1,5 +1,452 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": null,
+      "end_time": null,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Description"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Tags"
+        }
+      ],
+      "uuid": "5131fe06-6ee6-40fb-ad67-e75a2fcafd75"
+    },
+    {
+      "start_time": 0,
+      "end_time": 15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Introduction to podcast, introducing myself and setting the stage for the topic of Lockhart, Texas and personal connection to the town."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Introduction"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Personal Connection"
+        }
+      ],
+      "uuid": "46d456e0-7cc5-4292-914d-fedc81cebee7"
+    },
+    {
+      "start_time": 15,
+      "end_time": 35,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Describes personal history with Lockhart and establishes emotional connection; starts introducing the idea that changes are happening."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ethos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Community"
+        }
+      ],
+      "uuid": "80cd7a88-9e53-4b81-9139-a6fe221ac0dd"
+    },
+    {
+      "start_time": 35,
+      "end_time": 55,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Describes subtle signs of gentrification"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gentrification"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Community Changes"
+        }
+      ],
+      "uuid": "5325e255-c051-4d80-8eda-a21577b3c82f"
+    },
+    {
+      "start_time": 55,
+      "end_time": 75,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Discusses influx of new residents from Austin and economic pressure leading to cultural displacement."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gentrification"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Economics"
+        }
+      ],
+      "uuid": "a93f4bb2-7c2a-41b2-847d-a75e78c66e6a"
+    },
+    {
+      "start_time": 75,
+      "end_time": 95,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Talks about rising taxes, generational families struggling to hold onto land, and the emotional impact of selling farms."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Emotional Appeal"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Heritage Loss"
+        }
+      ],
+      "uuid": "28b4db9a-87bb-47f3-be10-a05d0c078865"
+    },
+    {
+      "start_time": 95,
+      "end_time": 115,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Discusses broader effects of property value increases"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Irony"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Local Economy"
+        }
+      ],
+      "uuid": "0aaa0775-dfcd-452a-9e86-9bde3b55e3ac"
+    },
+    {
+      "start_time": 115,
+      "end_time": 135,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Highlights a controversial development plan for 1,500 new homes"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Development"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Exclusion"
+        }
+      ],
+      "uuid": "a76cfb97-ff4a-4653-bc3b-8b9f59855125"
+    },
+    {
+      "start_time": 135,
+      "end_time": 155,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Reflects on the inevitability of growth but raises the question of how to grow inclusively."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Growth"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Community Focus"
+        }
+      ],
+      "uuid": "b96b1f52-2e68-4693-9d2e-1cb3693e8b22"
+    },
+    {
+      "start_time": 155,
+      "end_time": 175,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Suggests farmland protections and smarter zoning laws to prioritize community needs."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Solutions"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Policy Ideas"
+        }
+      ],
+      "uuid": "63911e07-6522-4b47-8ea2-d2b8449963a4"
+    },
+    {
+      "start_time": 175,
+      "end_time": 195,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Advocates for required affordable housing units in new developments to prevent pricing locals out."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Affordable Housing"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Policy"
+        }
+      ],
+      "uuid": "efa544f2-3333-4d6f-ace2-ab588684e975"
+    },
+    {
+      "start_time": 195,
+      "end_time": 210,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Stresses importance of maintaining Lockhart’s unique style and charm in new developments."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Community Character"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Urban Planning"
+        }
+      ],
+      "uuid": "de80a58b-86b1-4a16-be7d-00519175a1b0"
+    },
+    {
+      "start_time": 210,
+      "end_time": 230,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Proposes creating a preservation fund to support farmers and long-time residents financially."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Preservation"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Financial Support"
+        }
+      ],
+      "uuid": "f3de12b7-0718-4419-8f54-ba3aa0b91bf7"
+    },
+    {
+      "start_time": 230,
+      "end_time": 250,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Calls for community involvement in town decisions and stresses the importance of transparency."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Community Involvement"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Civic Engagement"
+        }
+      ],
+      "uuid": "f674eb9a-9a9f-4f3e-aa49-e9e60ef7f93f"
+    },
+    {
+      "start_time": 250,
+      "end_time": 270,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Redefines success as preserving community and affordability, not just financial growth."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Redefining Success"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Community Values"
+        }
+      ],
+      "uuid": "5679fafa-e70c-4a95-92f6-12b3decf6eea"
+    },
+    {
+      "start_time": 270,
+      "end_time": 290,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Warns against prioritizing modernization at the cost of losing what makes Lockhart special."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Cautionary Message"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Identity"
+        }
+      ],
+      "uuid": "25aa03f8-a142-49fb-a657-e1c1c6eadc2c"
+    },
+    {
+      "start_time": 290,
+      "end_time": 310,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Final message of hope and belief in Lockhart’s ability to grow with purpose, not at the expense of its people."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Hope"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Call to Action"
+        }
+      ],
+      "uuid": "c2b015b2-bb61-4de3-8350-877b07d4baea"
+    },
+    {
+      "start_time": 310,
+      "end_time": 320,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Closing and thanking the audience for listening."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Conclusion"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Gratitude"
+        }
+      ],
+      "uuid": "556d7a73-f092-4f93-9b35-e556d79b61b6"
+    }
+  ],
   "set": "Default",
   "event_id": "9bf3ab10-cd72-4d63-b94d-185eee586f16",
   "source_id": "bbaab655-fdee-4046-9653-eb407ecd7569"
