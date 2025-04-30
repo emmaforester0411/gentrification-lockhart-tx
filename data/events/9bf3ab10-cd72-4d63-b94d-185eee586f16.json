@@ -17,6 +17,30 @@
           "text": "In my podcast episode we deep dive into how gentrification is effecting my hometown and how we can combat it/ promote positive growth."
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Podcast Reflection :"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "In my podcast project, I talk about how gentrification is changing my hometown, Lockhart, and why that matters. I wanted to show how these changes are affecting real people — especially families and farmers who’ve been here for generations. I used personal stories and emotion to help listeners connect with the issue and think about who Lockhart is really for. My goal was to speak to both locals and newcomers, hoping they’ll think about how we can grow without losing what makes this town special. Gentrification is the main issue, and to me it’s personal because it’s about protecting the place that raised me."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
+        }
+      ]
     }
   ],
   "citation": "",
@@ -24,6 +48,6 @@
   "label": "Gentrification In Lockhart Tx",
   "created_at": "2025-04-30T21:05:49.606Z",
   "created_by": "emmaforester0411",
-  "updated_at": "2025-04-30T21:05:49.606Z",
+  "updated_at": "2025-04-30T21:29:09.003Z",
   "updated_by": "emmaforester0411"
 }
